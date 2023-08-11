@@ -1,23 +1,22 @@
-
-import java.util.Scanner;
 import java.util.*;
-class fabnacci {
-    public static void main(String[]arg){
-   int a=-1,b=1,c=0;
-   System.out.println("enter limit of series");
-   Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-   
-  for(int i=1;i<=n;i++)
-
-   {  
+class Fabnacci{
+  public static void main(String[] args)
+  {
+    //Scanner sc = new Scanner(System.in);
+   // System.out.println("enter range");
+   // int n = sc.nextInt();
+    int a=-1,b=1,c=0;
+   for(int i=0 ;i<=20;i++)
+  {
      c=a+b;
+     if(c<20){
+    
+     System.out.println(c);
      a=b;
      b=c;
-    if(c>20)
-      break;
-     System.out.println("fabnacci series" +" "+ c);
-   }
-   
-}  
+  }
+  }
+
+  }
+
 }

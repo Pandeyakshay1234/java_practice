@@ -4,8 +4,8 @@ class Prime{
 {
     Scanner sc=new Scanner(System.in);
    System.out.println("enter any number to check wheather it is prime or not");
-    int n = sc.nextInt();
-int count=0;
+    long n = sc.nextLong();
+     int count=0;
      for(int i=1;i<=n;i++)
 {   
     if(n%i==0)
@@ -14,7 +14,7 @@ int count=0;
 }
   if(count==2)
   System.out.println(" a prime no");
-  else 
+  else `
       System.out.println("it is not a prime no");
   
 }
