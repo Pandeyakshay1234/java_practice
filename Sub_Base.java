@@ -15,7 +15,7 @@ class Sub_Base{
   int res=0;
   int p=1;
   int c = 0;
- int d=0;
+ int d;
   while(n2>0)
 {
    int d1=n1%10;
