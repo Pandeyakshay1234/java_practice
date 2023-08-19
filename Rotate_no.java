@@ -35,7 +35,7 @@ class Rotate_no{
        
         int q = n/div;
         int r = n%div;
-       int rot = n*mult + q;
+       int rot =  r*mult + q;
         System.out.println(rot);
   }
 
