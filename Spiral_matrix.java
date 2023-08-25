@@ -24,7 +24,7 @@ public class Spiral_matrix {
 
       while(count<tcn)
       {
-        //first row 
+        //first column
         for(int i=minr,j=minc;i<=maxr && count<tcn;i++)
         {
           System.out.println(mat[i][j]);
