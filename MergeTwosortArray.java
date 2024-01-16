@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 
-public class mergesort {
+public class MergeTwosortArray {
+    //merge two sorted array 
     public static int[] sort(int []a , int []b)
     {  int []  res = new int[a.length+b.length];
         int i =0;
