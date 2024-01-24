@@ -14,7 +14,7 @@ class Prime{
 }
   if(count==2)
   System.out.println(" a prime no");
-  else `
+  else 
       System.out.println("it is not a prime no");
   
 }

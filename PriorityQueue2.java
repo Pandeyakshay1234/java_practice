@@ -1,10 +1,10 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
-public class PriorityQueue {
+public class PriorityQueue2 {
 
      ArrayList<Integer> Data;
-     public PriorityQueue()
+     public PriorityQueue2()
      {
         Data = new ArrayList<>();
      }

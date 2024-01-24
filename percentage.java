@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public percentage{
+ public class  percentage{
     public static void main(String [] args){
                 
       System.out.println("enter first second third fourth fifth subject no" + "press enter after one input");
