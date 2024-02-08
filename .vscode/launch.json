@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreaDemo",
+            "request": "launch",
+            "mainClass": "ThreaDemo",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
