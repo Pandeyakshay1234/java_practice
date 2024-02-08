@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "yeilddemo",
+            "request": "launch",
+            "mainClass": "yeilddemo",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "demo3",
             "request": "launch",
             "mainClass": "demo3",
