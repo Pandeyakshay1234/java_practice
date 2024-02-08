@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "joindemo",
+            "request": "launch",
+            "mainClass": "joindemo",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "yeilddemo",
             "request": "launch",
             "mainClass": "yeilddemo",
