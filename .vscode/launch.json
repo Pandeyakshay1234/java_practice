@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeDupinstring",
+            "request": "launch",
+            "mainClass": "removeDupinstring",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "TestInheritance1",
+            "request": "launch",
+            "mainClass": "TestInheritance1",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "TestInheritance",
+            "request": "launch",
+            "mainClass": "TestInheritance",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort3",
+            "request": "launch",
+            "mainClass": "BubbleSort3",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "ThreadA",
             "request": "launch",
             "mainClass": "ThreadA",
