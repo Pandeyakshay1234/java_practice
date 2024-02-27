@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subsequence",
+            "request": "launch",
+            "mainClass": "Subsequence",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "removeDupinstring",
             "request": "launch",
             "mainClass": "removeDupinstring",
