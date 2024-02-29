@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Get_Keypad_Combination",
+            "request": "launch",
+            "mainClass": "Get_Keypad_Combination",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "Subsequence",
             "request": "launch",
             "mainClass": "Subsequence",
