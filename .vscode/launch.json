@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "comparatorDemo",
+            "request": "launch",
+            "mainClass": "comparatorDemo",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "mergeTwosortArray",
+            "request": "launch",
+            "mainClass": "mergeTwosortArray",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
+            "name": "hello2",
+            "request": "launch",
+            "mainClass": "hello2",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "Get_Keypad_Combination",
             "request": "launch",
             "mainClass": "Get_Keypad_Combination",
