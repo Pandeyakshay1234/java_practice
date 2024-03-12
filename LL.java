@@ -1,7 +1,7 @@
 import java.util.*;
 public class LL {
     Node head;
-   
+    
   public class Node{
         String Data;
         Node next;
