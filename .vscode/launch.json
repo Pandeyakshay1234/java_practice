@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse_LL_Pointer",
+            "request": "launch",
+            "mainClass": "Reverse_LL_Pointer",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "ReverseLLitr",
             "request": "launch",
             "mainClass": "ReverseLLitr",
