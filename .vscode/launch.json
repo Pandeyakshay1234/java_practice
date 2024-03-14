@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Comp_Comp",
+            "request": "launch",
+            "mainClass": "Comp_Comp",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "Reverse_LL_Pointer",
             "request": "launch",
             "mainClass": "Reverse_LL_Pointer",
