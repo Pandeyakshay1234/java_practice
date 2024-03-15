@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Map_Prac",
+            "request": "launch",
+            "mainClass": "Map_Prac",
+            "projectName": "java_practice_f43dd8e6"
+        },
+        {
+            "type": "java",
             "name": "Comp_Comp",
             "request": "launch",
             "mainClass": "Comp_Comp",
